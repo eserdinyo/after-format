@@ -5,7 +5,7 @@
   * Import Cost
   * Live Server
   * Material Icon Theme
-  * Noctis (Theme)
+  * Cobalt 2 (Theme)
   * Polacode (Take code ss)
   * Todo+
   * Vetur
@@ -18,6 +18,7 @@
 * [MySQL-Front](http://www.mysqlfront.de/)
 * [XAMPP](https://www.apachefriends.org/tr/index.html)
 * [Node](https://nodejs.org/en/)
+* [Iterm 2](https://www.iterm2.com/) && [ZSH](https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c)
 * [Spotify](https://www.spotify.com/tr/)
 * [f.lux](https://justgetflux.com/)
 * [Google Drive](https://www.google.com/drive/)
