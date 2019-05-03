@@ -33,4 +33,6 @@
   * [Mozilla](https://www.mozilla.org/en-US/firefox/new/)
   * [Opera](https://www.opera.com/tr)
 * [ScreenSaver](https://github.com/chrstphrknwtn/word-clock-screensaver/)
+* Add Sublime To Terminal :
+  * sudo ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
  
