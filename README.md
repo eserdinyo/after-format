@@ -27,11 +27,28 @@
 * [Google Drive](https://www.google.com/drive/)
 * [Skype](https://www.skype.com/en/)
 * [TablePlus](https://tableplus.com/)
+* [Cyberduck](https://cyberduck.io/)
+* [ImageOptim](https://imageoptim.com/mac)
+* [AppCleaner](https://freemacsoft.net/appcleaner/)
+* [AnyDesk](https://anydesk.com/en)
+* [Itsycal](https://www.mowglii.com/itsycal/)
+* [Maccy](https://github.com/p0deje/Maccy)
+* [smcFanControl](https://www.macupdate.com/app/mac/23049/smcfancontrol)
+* [Loom](https://www.loom.com/download)
+* [RSS Bot](https://apps.apple.com/us/app/rss-bot-news-notifier/id605732865?mt=12)
+* [Rectangle](https://rectangleapp.com/)
+* [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
+* [Mutify](https://mutify.app/)
+* [Roy](https://www.useroy.com/)
+* [Pearl](https://apps.apple.com/us/app/pearl-mirror-in-your-menubar/id1152715357?mt=12)
+* [Alfred](https://www.alfredapp.com/)
+* [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
 * Browser
   * [Chrome](https://www.google.com/chrome/)
   * [Mozilla](https://www.mozilla.org/en-US/firefox/new/)
   * [Opera](https://www.opera.com/tr)
+  * [Brave](https://brave.com/)
 * [ScreenSaver](https://github.com/chrstphrknwtn/word-clock-screensaver/)
 * Add Sublime To Terminal :
   * sudo ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
