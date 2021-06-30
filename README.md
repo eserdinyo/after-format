@@ -1,16 +1,24 @@
 # Format Sonrası Yüklenecekler
 
 * [VSCODE](https://code.visualstudio.com/)
-  * Bracket Pair Colorizer
-  * Import Cost
-  * Live Server
-  * Material Icon Theme
-  * Cobalt 2 (Theme)
-  * Polacode (Take code ss)
-  * Todo+
-  * Vetur
-  * Quokka.js
-  * Vue VSCode Snippets
+  * [Duplicate action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate)
+  * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+  * [Git Branch Warnings](https://marketplace.visualstudio.com/items?itemName=teledemic.branch-warnings)
+  * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+  * [Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan)
+  * [Laravel Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets)
+  * [Moonlight](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight)
+  * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+  * [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
+  * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+  * [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+  * [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+  * [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+  * [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+  * [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
+  * [vscode-spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)
+  * [Vue Peek](https://marketplace.visualstudio.com/items?itemName=dariofuzinato.vue-peek)
+  * [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets)
   
   
 * [Sublime Text](https://www.sublimetext.com/3)
